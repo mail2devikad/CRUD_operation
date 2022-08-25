@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "alex",
+      "lastName": "manual",
+      "email": "alex@gmail.com",
+      "phone": "8907654321",
+      "grade": "98"
+    },
+    {
+      "id": 2,
+      "firstName": "antony",
+      "lastName": "thomas",
+      "email": "anto@gmail.com",
+      "phone": "9807654321",
+      "grade": "78"
+    },
+    {
+      "id": 3,
+      "firstName": "adhi",
+      "lastName": "nannnu",
+      "email": "adhi@gmail.com",
+      "phone": "1234567098",
+      "grade": "89"
+    },
+    {
+      "id": 4,
+      "firstName": "evin",
+      "lastName": "lucca",
+      "email": "evin@gmail.com",
+      "phone": "1234567098",
+      "grade": "96"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

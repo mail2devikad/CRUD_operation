@@ -1,1 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+html,body{
+background-image: url(./assets/crud.jpg), linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.0));
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+background-blend-mode: multiply;
+height: 100%;
+font-family: 'Numans', sans-serif;
+
+}
